@@ -1,0 +1,24 @@
+IOTA PUBLIC TRANSPORTATION
+
+
+REQUIREMENTS
+
+1)Scheduling of public transportation:
+	1)Alerts to the driver about upcoming stop. 
+	2)Time based alerts of the schedule. 
+
+2)Enquiry About a certain bus:
+    1) Current Location of bus.
+    2) Arrival status .
+    3) seat availability.
+
+3)Enquiry about a bus stop
+	Info about Arriving buses.Time of Arrival 
+
+4)Automated suggestions on which bus to take based on source and destination. 
+
+5)Routing: Integrate traffic management to provide best route.
+
+6)Emergency situation:
+     1)Bus driver can alert management about bus failure.
+     2)Collision detection  to alert management automatically.
